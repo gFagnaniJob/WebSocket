@@ -7,7 +7,9 @@ Every 2000 ms (2 seconds) the client send a string or a json file to the server 
 ### 1. Installation
 
 1. Open Command Prompt
-2. git clone https://github.com/gFagnaniJob/WebSocket.git
+2. Type the following command:
+
+        git clone https://github.com/gFagnaniJob/WebSocket.git
 
 ### 2. Run the Server
 
